@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WebApplication1\\WeatherForecast81.csproj": {}
+    "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WeatherForecast81.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WebApplication1\\WeatherForecast81.csproj": {
+    "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WeatherForecast81.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WebApplication1\\WeatherForecast81.csproj",
+        "projectUniqueName": "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WeatherForecast81.csproj",
         "projectName": "WeatherForecast81",
-        "projectPath": "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WebApplication1\\WeatherForecast81.csproj",
+        "projectPath": "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WeatherForecast81.csproj",
         "packagesPath": "C:\\Users\\ms255033\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\ms255033\\Documents\\GitHub\\WeatherForecast81\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
