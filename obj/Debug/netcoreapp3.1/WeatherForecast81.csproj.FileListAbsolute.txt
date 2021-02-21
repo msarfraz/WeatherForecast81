@@ -1,0 +1,17 @@
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\WeatherForecast81.exe
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\WeatherForecast81.deps.json
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\WeatherForecast81.runtimeconfig.json
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\WeatherForecast81.runtimeconfig.dev.json
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\WeatherForecast81.dll
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\bin\Debug\netcoreapp3.1\WeatherForecast81.pdb
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WeatherForecast81.StaticWebAssets.Manifest.cache
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WeatherForecast81.StaticWebAssets.xml
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\obj\Debug\netcoreapp3.1\WeatherForecast81.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\obj\Debug\netcoreapp3.1\WeatherForecast81.AssemblyInfoInputs.cache
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\obj\Debug\netcoreapp3.1\WeatherForecast81.AssemblyInfo.cs
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\obj\Debug\netcoreapp3.1\WeatherForecast81.RazorTargetAssemblyInfo.cache
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\obj\Debug\netcoreapp3.1\WeatherForecast81.dll
+C:\Users\ms255033\Documents\GitHub\WeatherForecast81\WebApplication1\obj\Debug\netcoreapp3.1\WeatherForecast81.pdb
