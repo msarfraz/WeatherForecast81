@@ -13,7 +13,7 @@ namespace WeatherForecast81
         // GET: /<controller>/
         public IEnumerable<String> Index()
         {
-            return new String[] { "Hello Home!" };
+            return new String[] { "Hello Home! " + DateTime.Now.ToShortDateString() };
         }
     }
 }

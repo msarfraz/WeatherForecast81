@@ -33,6 +33,5 @@ C:\Users\ms255033\Documents\GitHub\WeatherForecast81\obj\Debug\netcoreapp3.1\Wea
 C:\Users\ms255033\Documents\GitHub\WeatherForecast81\obj\Debug\netcoreapp3.1\WeatherForecast81.dll
 C:\Users\ms255033\Documents\GitHub\WeatherForecast81\obj\Debug\netcoreapp3.1\WeatherForecast81.pdb
 C:\Users\ms255033\Documents\GitHub\WeatherForecast81\bin\Debug\netcoreapp3.1\WeatherForecast81.Views.dll
-C:\Users\ms255033\Documents\GitHub\WeatherForecast81\bin\Debug\netcoreapp3.1\WeatherForecast81.Views.pdb
 C:\Users\ms255033\Documents\GitHub\WeatherForecast81\obj\Debug\netcoreapp3.1\WeatherForecast81.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ms255033\Documents\GitHub\WeatherForecast81\obj\Debug\netcoreapp3.1\WeatherForecast81.csproj.CopyComplete
